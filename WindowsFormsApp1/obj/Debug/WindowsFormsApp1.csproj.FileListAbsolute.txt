@@ -1,0 +1,97 @@
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tasarım.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewBill.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewCar.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewClient.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewStock.resources
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewBill.resources
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewCar.resources
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewClient.resources
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewStock.resources
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tasarım.resources
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sabri\Desktop\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sabri\Desktop\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sabri\Desktop\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sabri\Desktop\Proje\TarcanlarOtoV2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sabri\Desktop\Proje\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sabri\Desktop\Proje\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sabri\Desktop\TarcanlarOtoV2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sabri\Desktop\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sabri\Desktop\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sabri\Desktop\asd\TarcanlarOtoV2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sabri\Desktop\asd\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sabri\Desktop\asd\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewBill.resources
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewCar.resources
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewClient.resources
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewStock.resources
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PDF.resources
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tasarım.resources
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\husey\Desktop\Proje\TarcanlarOtoV29.04.20\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewBill.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewCar.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewClient.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewStock.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PDF.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tasarım.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
