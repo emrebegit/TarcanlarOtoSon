@@ -23,7 +23,7 @@ namespace WindowsFormsApp1
             context.Database.CreateIfNotExists();
             context.Database.Initialize(true);
             
-            Application.Run(new NewClient());
+            Application.Run(new NewBill());
         }
     }
 }

@@ -95,3 +95,25 @@ C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\Win
 C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\PC\Desktop\VERITABANI TASARIM VE UYGULAMALARI\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewBill.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewCar.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewClient.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.NewStock.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PDF.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tasarım.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\PC\Documents\GitHub\TarcanlarOtoSon\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

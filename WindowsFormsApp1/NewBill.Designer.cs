@@ -35,6 +35,12 @@
             this.panel9 = new System.Windows.Forms.Panel();
             this.panel8 = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
+            this.dateTimePickerFaturatarihi = new System.Windows.Forms.DateTimePicker();
+            this.comboBoxUrunadet = new System.Windows.Forms.ComboBox();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.comboBoxFaturatip = new System.Windows.Forms.ComboBox();
+            this.comboBoxUrun = new System.Windows.Forms.ComboBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
@@ -62,12 +68,8 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.panel4 = new System.Windows.Forms.Panel();
             this.panelBanner = new System.Windows.Forms.Panel();
-            this.comboBoxUrun = new System.Windows.Forms.ComboBox();
-            this.comboBoxFaturatip = new System.Windows.Forms.ComboBox();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.comboBoxUrunadet = new System.Windows.Forms.ComboBox();
-            this.dateTimePickerFaturatarihi = new System.Windows.Forms.DateTimePicker();
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.button8 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.panel5.SuspendLayout();
@@ -80,6 +82,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panelBanner.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -115,7 +118,7 @@
             // panel9
             // 
             this.panel9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
-            this.panel9.Location = new System.Drawing.Point(543, 123);
+            this.panel9.Location = new System.Drawing.Point(536, 73);
             this.panel9.Name = "panel9";
             this.panel9.Size = new System.Drawing.Size(216, 1);
             this.panel9.TabIndex = 27;
@@ -123,7 +126,7 @@
             // panel8
             // 
             this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
-            this.panel8.Location = new System.Drawing.Point(543, 71);
+            this.panel8.Location = new System.Drawing.Point(152, 209);
             this.panel8.Name = "panel8";
             this.panel8.Size = new System.Drawing.Size(216, 1);
             this.panel8.TabIndex = 24;
@@ -131,6 +134,8 @@
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.SystemColors.Control;
+            this.panel5.Controls.Add(this.button8);
+            this.panel5.Controls.Add(this.dataGridView2);
             this.panel5.Controls.Add(this.dateTimePickerFaturatarihi);
             this.panel5.Controls.Add(this.comboBoxUrunadet);
             this.panel5.Controls.Add(this.panel7);
@@ -155,11 +160,63 @@
             this.panel5.TabIndex = 14;
             this.panel5.Paint += new System.Windows.Forms.PaintEventHandler(this.panel5_Paint);
             // 
+            // dateTimePickerFaturatarihi
+            // 
+            this.dateTimePickerFaturatarihi.CalendarMonthBackground = System.Drawing.SystemColors.Control;
+            this.dateTimePickerFaturatarihi.CalendarTitleBackColor = System.Drawing.SystemColors.Control;
+            this.dateTimePickerFaturatarihi.Location = new System.Drawing.Point(535, 45);
+            this.dateTimePickerFaturatarihi.Name = "dateTimePickerFaturatarihi";
+            this.dateTimePickerFaturatarihi.Size = new System.Drawing.Size(215, 22);
+            this.dateTimePickerFaturatarihi.TabIndex = 53;
+            // 
+            // comboBoxUrunadet
+            // 
+            this.comboBoxUrunadet.BackColor = System.Drawing.SystemColors.Control;
+            this.comboBoxUrunadet.FormattingEnabled = true;
+            this.comboBoxUrunadet.Location = new System.Drawing.Point(151, 177);
+            this.comboBoxUrunadet.Name = "comboBoxUrunadet";
+            this.comboBoxUrunadet.Size = new System.Drawing.Size(215, 24);
+            this.comboBoxUrunadet.TabIndex = 52;
+            // 
+            // panel7
+            // 
+            this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
+            this.panel7.Location = new System.Drawing.Point(151, 164);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(216, 1);
+            this.panel7.TabIndex = 51;
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
+            this.panel1.Location = new System.Drawing.Point(151, 125);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(216, 1);
+            this.panel1.TabIndex = 50;
+            // 
+            // comboBoxFaturatip
+            // 
+            this.comboBoxFaturatip.BackColor = System.Drawing.SystemColors.Control;
+            this.comboBoxFaturatip.FormattingEnabled = true;
+            this.comboBoxFaturatip.Location = new System.Drawing.Point(151, 95);
+            this.comboBoxFaturatip.Name = "comboBoxFaturatip";
+            this.comboBoxFaturatip.Size = new System.Drawing.Size(215, 24);
+            this.comboBoxFaturatip.TabIndex = 49;
+            // 
+            // comboBoxUrun
+            // 
+            this.comboBoxUrun.BackColor = System.Drawing.SystemColors.Control;
+            this.comboBoxUrun.FormattingEnabled = true;
+            this.comboBoxUrun.Location = new System.Drawing.Point(151, 134);
+            this.comboBoxUrun.Name = "comboBoxUrun";
+            this.comboBoxUrun.Size = new System.Drawing.Size(215, 24);
+            this.comboBoxUrun.TabIndex = 48;
+            // 
             // label9
             // 
             this.label9.BackColor = System.Drawing.SystemColors.Control;
             this.label9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
-            this.label9.Location = new System.Drawing.Point(428, 99);
+            this.label9.Location = new System.Drawing.Point(421, 49);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(109, 20);
             this.label9.TabIndex = 19;
@@ -169,7 +226,7 @@
             // 
             this.label8.BackColor = System.Drawing.SystemColors.Control;
             this.label8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
-            this.label8.Location = new System.Drawing.Point(428, 50);
+            this.label8.Location = new System.Drawing.Point(37, 188);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(109, 20);
             this.label8.TabIndex = 18;
@@ -199,12 +256,13 @@
             // 
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
-            this.button7.Location = new System.Drawing.Point(369, 233);
+            this.button7.Location = new System.Drawing.Point(572, 164);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(168, 50);
             this.button7.TabIndex = 15;
             this.button7.Text = "Fatura Oluştur";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // panel6
             // 
@@ -451,57 +509,26 @@
             this.panelBanner.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panelBanner_MouseMove);
             this.panelBanner.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panelBanner_MouseUp);
             // 
-            // comboBoxUrun
+            // dataGridView2
             // 
-            this.comboBoxUrun.BackColor = System.Drawing.SystemColors.Control;
-            this.comboBoxUrun.FormattingEnabled = true;
-            this.comboBoxUrun.Location = new System.Drawing.Point(151, 134);
-            this.comboBoxUrun.Name = "comboBoxUrun";
-            this.comboBoxUrun.Size = new System.Drawing.Size(215, 24);
-            this.comboBoxUrun.TabIndex = 48;
+            this.dataGridView2.BackgroundColor = System.Drawing.SystemColors.Control;
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Location = new System.Drawing.Point(7, 237);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.Size = new System.Drawing.Size(825, 69);
+            this.dataGridView2.TabIndex = 54;
             // 
-            // comboBoxFaturatip
+            // button8
             // 
-            this.comboBoxFaturatip.BackColor = System.Drawing.SystemColors.Control;
-            this.comboBoxFaturatip.FormattingEnabled = true;
-            this.comboBoxFaturatip.Location = new System.Drawing.Point(151, 95);
-            this.comboBoxFaturatip.Name = "comboBoxFaturatip";
-            this.comboBoxFaturatip.Size = new System.Drawing.Size(215, 24);
-            this.comboBoxFaturatip.TabIndex = 49;
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
-            this.panel1.Location = new System.Drawing.Point(151, 125);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(216, 1);
-            this.panel1.TabIndex = 50;
-            // 
-            // panel7
-            // 
-            this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
-            this.panel7.Location = new System.Drawing.Point(151, 164);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(216, 1);
-            this.panel7.TabIndex = 51;
-            // 
-            // comboBoxUrunadet
-            // 
-            this.comboBoxUrunadet.BackColor = System.Drawing.SystemColors.Control;
-            this.comboBoxUrunadet.FormattingEnabled = true;
-            this.comboBoxUrunadet.Location = new System.Drawing.Point(542, 39);
-            this.comboBoxUrunadet.Name = "comboBoxUrunadet";
-            this.comboBoxUrunadet.Size = new System.Drawing.Size(215, 24);
-            this.comboBoxUrunadet.TabIndex = 52;
-            // 
-            // dateTimePickerFaturatarihi
-            // 
-            this.dateTimePickerFaturatarihi.CalendarMonthBackground = System.Drawing.SystemColors.Control;
-            this.dateTimePickerFaturatarihi.CalendarTitleBackColor = System.Drawing.SystemColors.Control;
-            this.dateTimePickerFaturatarihi.Location = new System.Drawing.Point(542, 95);
-            this.dateTimePickerFaturatarihi.Name = "dateTimePickerFaturatarihi";
-            this.dateTimePickerFaturatarihi.Size = new System.Drawing.Size(215, 22);
-            this.dateTimePickerFaturatarihi.TabIndex = 53;
+            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button8.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(141)))), ((int)(((byte)(188)))));
+            this.button8.Location = new System.Drawing.Point(424, 135);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(110, 50);
+            this.button8.TabIndex = 55;
+            this.button8.Text = "Ürünü Faturaya Ekle";
+            this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // NewBill
             // 
@@ -513,9 +540,10 @@
             this.Controls.Add(this.panelBanner);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "NewBill";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.NewBill_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel5.ResumeLayout(false);
@@ -531,6 +559,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.panelBanner.ResumeLayout(false);
             this.panelBanner.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -576,5 +605,7 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Panel panelBanner;
+        private System.Windows.Forms.DataGridView dataGridView2;
+        private System.Windows.Forms.Button button8;
     }
 }

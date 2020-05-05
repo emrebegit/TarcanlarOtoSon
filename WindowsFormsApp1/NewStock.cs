@@ -87,7 +87,7 @@ namespace WindowsFormsApp1
         private void NewStock_Load(object sender, EventArgs e)
         {
             var grUrunDetay = new GenericRepository<UrunDetay>(new OtoContext());
-            /*
+            
             grUrunDetay.Create(new UrunDetay()
             {
                 UrunMarka = "Mercedes",
@@ -100,7 +100,7 @@ namespace WindowsFormsApp1
                 UrunModel = "Mercedes boya",
                 UrunUretimTarihi = DateTime.Now
             });
-            */
+            
             /*
             comboBoxUrunmarka.DataSource = grUrunDetay.GetAll().Where(i=>i.UrunDetayId==).ToList();
             comboBoxUrunmarka.DisplayMember = "UrunMarka";
